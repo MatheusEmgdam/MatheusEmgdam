@@ -1,7 +1,7 @@
 ## Olá! Sou Matheus Ramalho
 - Estudante de Desenvolvimento de Sistemas e Eletrônica
 - Buscando compreender cada vez mais o mundo da computação
-- Interesse em Segurança de Dados e Sistemas Operacionais
+- Interesse em Segurança de Dados, Sistemas Operacionais e Sistemas Embarcados
 
 <h2>Tecnologias que estou estudando<h2>
  
